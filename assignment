@@ -1,0 +1,10 @@
+ASSIGNMENT 4 : VOTING APP
+My observations:
+When the Voting app was deleted, no change, the app worked FINE.
+2nd, deleted the Worker app my observation is xxxxx
+3rd deleted db app, my observationxxxx
+lastly made the result app work by xxxxx
+here are some of the snapshots
+[root@ip-172-31-5-100 k8s-specifications]# kubectl get po
+NAME                      READY   STATUS    RESTARTS   AGE
+db-b54cd94f4-hkzsm        1/1     Running   0          5m37s
